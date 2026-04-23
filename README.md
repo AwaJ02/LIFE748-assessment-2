@@ -19,7 +19,7 @@ This repository contains the code, figures, and report for LIFE748 Assessment 2.
 - Structural analysis using AlphaFold models
 
 ## Author
-[Your Name]
+Awa Jammeh
 
 ## Module
 LIFE748
