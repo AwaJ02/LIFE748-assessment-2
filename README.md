@@ -1,4 +1,5 @@
-https://alphafold.ebi.ac.uk/entry/AF-P0A9G2-F1?activeTab=annotations<img width="560" height="390" alt="Screenshot 2026-04-23 at 20 00 06" src="https://github.com/user-attachments/assets/7f2b5bb9-8e92-4f8f-8af0-c99fc8d2d0af" />
+codehttps://alphafold.ebi.ac.uk/entry/AF-P0A9G2-F1?activeTab=annotations
+<img width="560" height="390" alt="Screenshot 2026-04-23 at 20 00 06" src="https://github.com/user-attachments/assets/7f2b5bb9-8e92-4f8f-8af0-c99fc8d2d0af" />
 <img width="694" height="426" alt="Screenshot 2026-04-23 at 17 34 29" src="https://github.com/user-attachments/assets/49c3de3f-057b-493b-a5c7-a9b3d81c5fbd" />
 <img width="685" height="341" alt="Screenshot 2026-04-23 at 17 34 11" src="https://github.com/user-attachments/assets/2558557f-fa11-4a36-93f1-11b282771223" />
 <img width="691" height="439" alt="Screenshot 2026-04-23 at 17 33 45" src="https://github.com/user-attachments/assets/1b38b7d0-7824-47cc-9ff4-b88058ec58d4" />
